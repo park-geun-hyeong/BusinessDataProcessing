@@ -14,7 +14,6 @@ symbols(st$Illiteracy,
         ylab="crime rate", 
         main ="Illiteracy and Crime")
 
-
 text(st$Illiteracy,
      st$Murder, 
      labels = rownames(st),
